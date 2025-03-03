@@ -54,5 +54,13 @@ Contents
 
 .. toctree::
 
-   usage
-   api
+   :maxdepth: 2
+
+   :caption: Spis Treści
+
+
+   sekcja1
+
+   sekcja2
+
+   sekcja3
