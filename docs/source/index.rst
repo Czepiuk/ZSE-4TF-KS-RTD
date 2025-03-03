@@ -21,6 +21,7 @@ To jest przykładowy akapit tekstowy.
 .. code-block:: python
 
     def funkcja():
+
         print("To jest blok kodu.")
 
 `Link do sekcji <nazwa_sekcji>`_
