@@ -39,7 +39,7 @@ Termin
 
 .. image:: https://media.licdn.com/dms/image/v2/D4D22AQFoZO3LOQgnIw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1684831727230?e=2147483647&v=beta&t=kfe1WW5CJXn7ZmXYQjczWnwXsNKGCjVKwmvrqYk_ah8
    :alt: Fryzura
-   :caption: es
+   
 
 .. table:: Tytuł tabeli
    :widths: auto
