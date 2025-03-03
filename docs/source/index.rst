@@ -4,9 +4,11 @@ Nagłówek Poziom 1
 Nagłówek Poziom 2
 
 -----------------
-### Nagłówek Poziom 3
+Nagłówek Poziom 3
+~~~~~~~~~~~~~~~~~
 
-#### Nagłówek Poziom 4
+ Nagłówek Poziom 4
+""""""""""""""""""
 
 To jest przykładowy akapit tekstowy.
 
