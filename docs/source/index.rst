@@ -22,9 +22,9 @@ To jest przykładowy akapit tekstowy.
 
         print("To jest blok kodu.")
 
-`Link do sekcji <nazwa_sekcji>`_
+`Link do sekcji <nazwa_sekcji>`
 
-`Link do zewnętrznego serwisu <http://example.com>`_
+`Link do zewnętrznego serwisu <http://example.com>`
 
 1. Pierwszy element
 2. Drugi element
