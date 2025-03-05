@@ -51,15 +51,3 @@ Termin
 
 
 
-.. toctree::
-
-   :maxdepth: 3
-
-   :caption: Spis Treści
-
-
-   sekcja1
-
-   sekcja2
-
-   sekcja3
