@@ -49,12 +49,11 @@ Termin
    Wiersz 2  Zawartość 2
    ========  =================
 
-Contents
---------
+
 
 .. toctree::
 
-   :maxdepth: 2
+   :maxdepth: 3
 
    :caption: Spis Treści
 
