@@ -40,7 +40,7 @@ Termin
    
 
 .. table:: Tytuł tabeli
-   :width: auto
+   :widths: auto
 
    ========  =================
    Nagłówek  Opis
